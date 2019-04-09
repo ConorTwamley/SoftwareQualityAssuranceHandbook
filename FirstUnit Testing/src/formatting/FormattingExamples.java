@@ -36,6 +36,6 @@ public class FormattingExamples {
 	else {
 		System.out.println("Hello Stranger"); }
 	
-	//Ensure there is only one blank space inbetween each method or statement
+	//Ensure there is only one blank space in between each method or statement
 }
 }
